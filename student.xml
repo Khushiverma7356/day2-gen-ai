@@ -1,0 +1,20 @@
+<students>
+    <student>
+        <id>1001</id>
+        <name>Emily Clark</name>
+        <department>CS</department>
+        <year>2024</year>
+    </student>
+    <student>
+        <id>1002</id>
+        <name>Michael Brown</name>
+        <department>EE</department>
+        <year>2023</year>
+    </student>
+    <student>
+        <id>1003</id>
+        <name>Sarah Johnson</name>
+        <department>ME</department>
+        <year>2025</year>
+    </student>
+</students>

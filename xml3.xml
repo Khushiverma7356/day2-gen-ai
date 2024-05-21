@@ -1,0 +1,29 @@
+<department>
+    <name>Computer Science</name>
+    <head>Dr. John Smith</head>
+    <location>Building A</location>
+    <year>
+        <id>2024</id>
+        <description>Sophomore</description>
+        <students>
+            <student>
+                <id>1001</id>
+                <name>Emily Clark</name>
+            </student>
+            <student>
+                <id>1002</id>
+                <name>Michael Brown</name>
+            </student>
+        </students>
+    </year>
+    <year>
+        <id>2025</id>
+        <description>Junior</description>
+        <students>
+            <student>
+                <id>1003</id>
+                <name>Sarah Johnson</name>
+            </student>
+        </students>
+    </year>
+</department>
